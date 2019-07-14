@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScanRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "version"
+    }
+  }
+}
